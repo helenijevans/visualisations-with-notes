@@ -25,7 +25,19 @@
   - Important to note that this is the case because of the directed edges.
   - If we look at the red arrow connecting 1-9-8, we can see this is **not** a cycle, because 8 doesn't have any edges where it can
 move to another node (no arrows directing away from 8). 
-
+- At the bottom of the diagram, you can see a couple of sketches. These are potential use cases of graphs.
+  1. Noughts and crosses
+       - Every single choice in noughts and crosses is finite and can be mapped
+       - For example the first X being in the centre, or on the top left etc.
+       - In this case each vertex will hold the data of the current state of the board
+       - You can acknowledge that someone putting a X in the top left, then an O in the centre will result in the same board
+     as putting an O in the centre first, and X is in the top left.
+       - Therefore vertexes would be able to have multiple edges, aka there is more than one path that will cause the same result.
+       - Find below another graphic showing how this graph could be structured.
+![Noughts&Crosses](media/tic-tac-toe.jpg)
+  2. Permutationally swapping
+       - This example shows 'cat' and how it can be mapped by a graph by switching letters with 'x'
+       - Like with noughts and crosses this can be done as the possibilities are finite.
 
 -----------
 ## ⛓️ More Links
