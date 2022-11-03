@@ -1,13 +1,4 @@
-# All The Links 🔗
-This file will list links for the session content.
-
------------
-## 📚 Session Content
-🎥 [Recording](https://www.dropbox.com/s/cvi0dmytwby5k40/Software%20Session%209%20%7C%20Stacks%20%26%20Queues.mp4?dl=0)
-⬜ [Slides](https://docs.google.com/presentation/d/16UGrj24vWWkeO6EOUvwNM4xCGzxlXcae/edit?usp=sharing&ouid=104286726783686080248&rtpof=true&sd=true)
-
------------
-## 🎨️ Visualisation
+# Visualisation
 
 ### FIFO vs LIFO
 ![FIFO vs LIFO](media/fifo_vs_lifo.png)

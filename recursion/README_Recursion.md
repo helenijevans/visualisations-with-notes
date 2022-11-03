@@ -1,13 +1,4 @@
-# All The Links 🔗
-This file will list links for the session content.
-
------------
-## 📚 Session Content
-🎥 [Recording](https://www.dropbox.com/s/01e1tx0s0ii7wpl/Software%20Session%2011%20%7C%20Recursion.mp4?dl=0)
-⬜ [Slides](https://docs.google.com/presentation/d/1nzxBYxObysgIQyqpL0-gx3rD4cZk4LXv/edit?usp=sharing&ouid=104286726783686080248&rtpof=true&sd=true)
-
------------
-## 🎨️ Visualisations
+# Visualisations
 
 ### Recursive Function
 The diagram below shows a recursive function and how it works by generating multiple instances (or calls) of the function. 

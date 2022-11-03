@@ -1,13 +1,4 @@
-# All The Links 🔗
-This file will list links for the session content.
-
------------
-## 📚 Session Content
-🎥 [Recording](https://www.dropbox.com/s/f9mh1g1vo9i71qf/Software%20Session%2010%20%7C%20Hash%20Tables%20%26%20Hashing.mp4?dl=0)
-⬜ [Slides](https://docs.google.com/presentation/d/1ST3XlVFTAJEQHf-4JQ_3mLfrmOW4fpVT/edit?usp=sharing&ouid=104286726783686080248&rtpof=true&sd=true)
-
------------
-## 🎨️ Visualisations
+# Visualisations
 
 ### ID-Dictionary Mapping
 The diagram below shows how the data structure 'dictionary' can be used to implement the relationship between IDs and 
