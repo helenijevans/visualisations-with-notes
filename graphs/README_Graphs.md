@@ -31,7 +31,7 @@ move to another node (no arrows directing away from 8).
        - For example the first X being in the centre, or on the top left etc.
        - In this case each vertex will hold the data of the current state of the board
        - You can acknowledge that someone putting a X in the top left, then an O in the centre will result in the same board
-     as putting an O in the centre first, and X is in the top left.
+     as putting an O in the centre first, and X in the top left.
        - Therefore vertexes would be able to have multiple edges, aka there is more than one path that will cause the same result.
        - Find below another graphic showing how this graph could be structured.
 ![Noughts&Crosses](media/tic-tac-toe.jpg)
