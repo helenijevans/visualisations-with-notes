@@ -33,7 +33,7 @@ move to another node (no arrows directing away from 8).
        - You can acknowledge that someone putting a X in the top left, then an O in the centre will result in the same board
      as putting an O in the centre first, and X in the top left.
        - Therefore vertexes would be able to have multiple edges, aka there is more than one path that will cause the same result.
-       - Find below a graphic showing how this could be structured.
+       - Find below a graphic showing how this could be structured:
 ![Noughts&Crosses](media/tic-tac-toe.jpg)
   2. Permutationally swapping
        - This example shows 'cat' and how it can be mapped by a graph by switching letters with 'x'
