@@ -8,7 +8,7 @@
   - Values/Nodes are called **vertices**
   - The connection between vertices is called an **edge**. 
 
-- A graph is connected is you can reach any given vertex from any other vertex (known as a path)
+- A graph is connected if you can reach any given vertex from any other vertex (known as a path)
 - Looking at the diagram above we can see that vertices 3 and 6 are not connected to the other vertices in the graph.
   - They’re still part of the graph but are not connected 
   - This shows us that what we have here is a *disconnected* graph.
