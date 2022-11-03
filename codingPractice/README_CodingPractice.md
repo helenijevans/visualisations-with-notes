@@ -1,11 +1,3 @@
-# All The Links 🔗
-This file will list links for the session content.
-
------------
-## 📚 Session Content
-🎥 [Recording](https://www.dropbox.com/s/xz0nr5fjxqphfxh/Software%20Session%2020%20%7C%20Coding%20Practice.mp4?dl=0)
-
------------
 ## 📄 The Problem
 Write a function that returns the maximum possible OR the minimum possible TOTAL SPEED  of ALL TANDEMS being ridden.
 
