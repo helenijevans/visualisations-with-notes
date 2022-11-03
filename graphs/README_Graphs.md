@@ -15,7 +15,7 @@
 - Graphs are used in real-life scenarios everywhere, we’ve all come across it in social media, public transport and more. 
 - It is important to note with this graph that edges aren’t notated using a plain line but using an arrow. 
   - This shows direction and how a vertex is connected to another, it means the graph is a directed graph
-  - For example you can travel from 1-> 2 but not 2 -> 1. 
+  - For example you can travel from 1-> 8 but not 8 -> 1. 
   - You can have a straight line in a graph as well that just means it’s an undirected graph so travel can go both ways.
   - An example of a directed graph would be a plane going from one location to another 
   - An example of undirected graphs would be where things are mutual such as becoming friends with someone else on Facebook
